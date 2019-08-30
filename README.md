@@ -2,7 +2,7 @@
 
 ## Overview
 Official experiment implementation of the following paper:
-> [**Deep Learning Theory Review: An Optimal Control and Dynamical System Perspective.**](https://)
+> [**Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective.**](https://arxiv.org/pdf/1908.10920.pdf)
 
 <!-- by Guan-Horng Liu and  Evangelos A. Theodorou,  -->
 The repo reproduces some of the results from the [Deep Information Propagation](https://arxiv.org/pdf/1611.01232.pdf) paper. However, it is not the official release of DIP. Most APIs in `meanfield.py` are consistent with the [mean-field-cnns](https://github.com/brain-research/mean-field-cnns) repo.
