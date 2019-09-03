@@ -9,6 +9,14 @@ The repo reproduces some of the results from the [Deep Information Propagation](
 
 Contribution is wellcomed. Plase cite the following BibTex if you find this repo helpful.
 
+```
+@article{Liu2019DeepLT,
+  title={Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective},
+  author={Liu, Guan-Horng and Theodorou, Evangelos A.},
+  journal={arXiv preprint arXiv:1908.10920},
+  year={2019}
+}
+```
 
 ## Dependencies
 
